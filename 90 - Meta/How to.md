@@ -5,12 +5,13 @@ This vault exists so I can capture ideas, learn properly, track project work; wi
 **IMPORTANT**
 Git doesn't allow me to push empty folders, and adding a hidden `.gitkeep` into folders you will probably never need is redundant (Areas specific to my use-case). So I've only added them to the most basic folders like *you could need to get started*.
 
-> [!TIP] First thing to do once you've cloned the Template
+> [!TIP] 
+> First thing to do once you've cloned the Template. 
 > Create folders inside `Areas` about things you want to study/learn using this vault. Similarly create a folder with the same name inside `Resources`. [Below I will attach the tree output of my vault to give you an idea of how to shape the vault](#^26bb2f).
 
 *If You're unsure where something goes, put it in `00 - Inbox/` and sort it later.*
 
-> [!NOTE] The rule you should try to follow  
+> [!NOTE]
 > Keep active folders small. When something stops being active, move it to `40 - Archive/` instead of letting it rot in place.
 
 ## The folders (brief overview)
@@ -51,7 +52,7 @@ An Area is a “maintenance lane.” It’s where you track how your learning is
 
 If you stop maintaining an area for a while, move the whole Area folder to `40 - Archive/Areas/`.
 
-> [!CAUTION] How to actually get a good roadmap to base things off of  
+> [!CAUTION]
 > Make sure you cross-check your "resulting" roadmap multiple times with multiple thinking and reasoning models. Make sure it's up to date, Make sure it actually makes you build stuff and doesn't send you off into tutorial hell.
 
 ## What goes in Resources (30 - Resources)
@@ -111,7 +112,7 @@ MOCs live in `90 - Meta/MOCs/`. An MOC is just a curated “entry point” note 
 
 ==(WIP)== A template will be included showcasing how one would implement filtering which will locate files with tags if *any one* of the conditions are met. Make sure to mark your files with an appropriate tag like so #help
 
-> [!IMPORTANT] How to actually benefit from MOCs  
+> [!IMPORTANT]
 > Keeping MOCs inside Area or Resources folder is redundant and breaks the flow and purpose of those folders. Whereas Meta is built for navigating the Vault, so *use MOCs to create detailed Map of Contents for your Areas and simply Bookmark them*.
 > 
 > I've bookmarked this `How to` note so you can easily access it under the bookmarks tab.

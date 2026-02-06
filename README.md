@@ -1,5 +1,5 @@
 
-> [!CAUTION] Recommended Action  
+> [!TIP]  
 > Use the template and read the following inside Obsidian for the best readability and experience of setting this vault up
 
 On *how* to use this workspace, refer to this [How to](How%20to.md). This is a Template repo, most of this should be straightforward as things can be. ==I have included plugins, their configs etc. to make things as low friction as possible==. Once you've read the *How to*, You should be good to go.
@@ -21,7 +21,7 @@ Happy Learning :D
 ### Some background
 I've been using obsidian for a decent amount of time, And for the longest I had no structure on *how* I used it. A tool is as good as the person using it. I don't think I've "cracked the code" for managing my life with obsidian, but this is the farthest I've come and I plan to continue refining my process with time. Of course, i used an LLM to help me organize this mess because If i knew how i would have done it by now. In addition to the fact that i don't plan on learning management tactics for hours just to feel validated for tweaking my workspace. This is by no means the best possible way to use obsidian but simply what works for me and my use-case.
 
-> [!IMPORTANT] My use-case and how to adapt this template for yourself
+> [!IMPORTANT]
 > I'm a self taught Software Engineer & my reason for using obsidian revolves around that fact. I take my notes, track my "Areas" (things I'm learning, interested in, or "study"), manage projects, write blogs and similar things all in obsidian.
 > 
 > If your use-case varies a lot, you can simply tweak the folder names, make some changes and you should be good to go. I did include some folders by default to help you understand how things would be laid out in case of an active workspace
