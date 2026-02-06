@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 - Inbox"
+  "newFileFolderPath": "00 - Inbox",
+  "useMarkdownLinks": true
 }

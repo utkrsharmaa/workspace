@@ -5,28 +5,28 @@ This vault exists so I can capture ideas, learn properly, track project work; wi
 **IMPORTANT**
 Git doesn't allow me to push empty folders, and adding a hidden `.gitkeep` into folders you will probably never need is redundant (Areas specific to my use-case). So I've only added them to the most basic folders like *you could need to get started*.
 
-> [!ToDo] First thing to do once you've cloned the Template
-> Create folders inside `Areas` about things you want to study/learn using this vault. Similarly create a folder with the same name inside `Resources`. [[#^26bb2f|Below I will attach the tree output of my vault to give you an idea of how to shape the vault]].
+> [!Tip] First thing to do once you've cloned the Template
+> Create folders inside `Areas` about things you want to study/learn using this vault. Similarly create a folder with the same name inside `Resources`. [Below I will attach the tree output of my vault to give you an idea of how to shape the vault](#^26bb2f).
 
 *If You're unsure where something goes, put it in `00 - Inbox/` and sort it later.*
 
-> [!FAQ] The rule you should try to follow  
+> [!Note] The rule you should try to follow  
 > Keep active folders small. When something stops being active, move it to `40 - Archive/` instead of letting it rot in place.
 
 ## The folders (brief overview)
 
-`10 - Projects/` is for things You're building. If it has an outcome (ship a tool, finish an app, implement a feature set), it lives here. A project folder is allowed to be messy while You're working, because it’s a workspace. [[#What goes in a Project (10 - Projects)|More on how to work inside the Projects folder & Template]].
+`10 - Projects/` is for things You're building. If it has an outcome (ship a tool, finish an app, implement a feature set), it lives here. A project folder is allowed to be messy while You're working, because it’s a workspace. [More on how to work inside the Projects folder & Template](#What%20goes%20in%20a%20Project%20(`10%20-%20Projects`)).
 
-`20 - Areas/` is for tracks you're maintaining over time (no finish line). This is where you track what you're focusing on right now, what “good” looks like, and what you should revisit. It’s not where the actual deep notes live. [[#What goes in an Area (`20 - Areas`)|More on how to manage an Area]].
+`20 - Areas/` is for tracks you're maintaining over time (no finish line). This is where you track what you're focusing on right now, what “good” looks like, and what you should revisit. It’s not where the actual deep notes live. [More on how to manage an Area](#What%20goes%20in%20an%20Area%20(`20%20-%20Areas`)).
 
-`30 - Resources/` will be the knowledge base: notes in your words, written so future you can get up to speed quickly. This is where “what I learned” lives. For rough, draft like notes which are not yet polished, use a `(raw)` suffix at the end to mark it as so. `Resources/rust/ownership/ownership_model(raw).md`. [[#What goes in Resources (30 - Resources)|More on Resources and how to work inside the folders]].
+`30 - Resources/` will be the knowledge base: notes in your words, written so future you can get up to speed quickly. This is where “what I learned” lives. For rough, draft like notes which are not yet polished, use a `(raw)` suffix at the end to mark it as so. `Resources/rust/ownership/ownership_model(raw).md`. [More on Resources and how to work inside the folders](#What%20goes%20in%20Resources%20(30%20-%20Resources)).
 
 `35 - Devlog/` is for public-facing writing (==You may rename the folder as you like==). These are refined writeups that are meant to be shipped to my portfolio site. Things I understand well enough to confidently write about publically, giving an in depth technical understanding of said topic.
-*If you don't plan on doing any blog writing or technical write-ups*, having a space where your best and only best notes live, is still a plus. You can use this to know how far deep your understanding is with a particular Area and continue learning until you have a huge set of that Area under this space. [[#What goes in Devlog (35 - Devlog)|More on Devlog]].
+*If you don't plan on doing any blog writing or technical write-ups*, having a space where your best and only best notes live, is still a plus. You can use this to know how far deep your understanding is with a particular Area and continue learning until you have a huge set of that Area under this space. [More on Devlog)](#What%20goes%20in%20Devlog%20(35%20-%20Devlog)).
 
-`40 - Archive/` is for inactive stuff. This keeps the active folders clean. If You're done with a project or something you haven't touched in weeks, move it here (inside the respective nested folder). If you plan to work on something again that was archived, move it back out. [[#What Archive is (40 - Archive)|More on Archives]].
+`40 - Archive/` is for inactive stuff. This keeps the active folders clean. If You're done with a project or something you haven't touched in weeks, move it here (inside the respective nested folder). If you plan to work on something again that was archived, move it back out. [More on Archives](#What%20Archive%20is%20(40%20-%20Archive)).
 
-`90 - Meta/` is the vault’s “operating manual”: [[#Templates (presets for some of the top level folders)|Templates]], [[#MOCs (Maps of Content)|MOCs]], and rules for how to run this workspace.
+`90 - Meta/` is the vault’s “operating manual”: [Templates](#Templates%20(presets%20for%20some%20of%20the%20top%20level%20folders)), [MOCs (Maps of Content)](#MOCs%20(Maps%20of%20Content)), and rules for how to run this workspace.
 
 ---
 ## What goes in a Project (`10 - Projects`)
@@ -51,7 +51,7 @@ An Area is a “maintenance lane.” It’s where you track how your learning is
 
 If you stop maintaining an area for a while, move the whole Area folder to `40 - Archive/Areas/`.
 
-> [!BUG] How to actually get a good roadmap to base things off of  
+> [!Caution] How to actually get a good roadmap to base things off of  
 > Make sure you cross-check your "resulting" roadmap multiple times with multiple thinking and reasoning models. Make sure it's up to date, Make sure it actually makes you build stuff and doesn't send you off into tutorial hell.
 
 ## What goes in Resources (30 - Resources)
@@ -111,7 +111,7 @@ MOCs live in `90 - Meta/MOCs/`. An MOC is just a curated “entry point” note 
 
 ==(WIP)== A template will be included showcasing how one would implement filtering which will locate files with tags if *any one* of the conditions are met. Make sure to mark your files with an appropriate tag like so #help
 
-> [!Example] How to actually benefit from MOCs  
+> [!Important] How to actually benefit from MOCs  
 > Keeping MOCs inside Area or Resources folder is redundant and breaks the flow and purpose of those folders. Whereas Meta is built for navigating the Vault, so *use MOCs to create detailed Map of Contents for your Areas and simply Bookmark them*.
 > 
 > I've bookmarked this `How to` note so you can easily access it under the bookmarks tab.
