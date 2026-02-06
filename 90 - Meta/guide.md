@@ -5,6 +5,8 @@ This vault exists so I can capture ideas, learn properly, track project work; wi
 **IMPORTANT**
 Git doesn't allow me to push empty folders, and adding a hidden `.gitkeep` into folders you will probably never need is redundant (Areas specific to my use-case). So I've only added them to the most basic folders like *you could need to get started*.
 
+Also, these README files use traditional markdown links and relative links so these can be viewed on GitHub as is without needing to be cloned first. But the setting to use Wiki-links has been left turned *on* so you can have a better experience using Obsidian. If you do plan to make a README for your own GitHub version, use normal markdown links in that version.
+
 > [!TIP] 
 > First thing to do once you've cloned the Template. 
 > Create folders inside `Areas` about things you want to study/learn using this vault. Similarly create a folder with the same name inside `Resources`. [Below I will attach the tree output of my vault to give you an idea of how to shape the vault](#^26bb2f).
