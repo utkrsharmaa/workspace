@@ -1,4 +1,4 @@
-On *how* to use this workspace, refer to this [guide](../90%20-%20Meta/guide.md). This is a Template repo, most of this should be straightforward as things can be. ==I have included plugins, their configs etc. to make things as low friction as possible==. Once you've read the *How to*, You should be good to go.
+On *how* to use this workspace, refer to this [guide](./90%20-%20Meta/guide.md). This is a Template repo, most of this should be straightforward as things can be. ==I have included plugins, their configs etc. to make things as low friction as possible==. Once you've read the *How to*, You should be good to go.
 
 If things *are* breaking, it might be the plugins, obsidian updates, or something similar causing issues. And no less than others, it could be a fault from my end since I'm not really experienced with making reusable environments. This will be a big WIP project for me.
 
