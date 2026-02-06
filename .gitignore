@@ -1,9 +1,6 @@
 # Obsidian: volatile UI layout/state (do not sync)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/plugins/*/*.js
-.obsidian/plugins/*/*.css
-.obsidian/plugins/*/manifest.json
 
 # OS / file-manager junk
 .DS_Store
