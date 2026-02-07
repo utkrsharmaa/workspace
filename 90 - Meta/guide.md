@@ -3,7 +3,7 @@
 This vault exists so I can capture ideas, learn properly, track project work; without everything becoming a giant unorganized mess. Like all things this solution isn't perfect, If you find this method slowing you down I encourage you to curate your very own customized experience; Since there will never be a one-size-fits-all solution when it comes to hyper-personal things like learning.
 
 **IMPORTANT**
-Git doesn't allow me to push empty folders, and adding a hidden `.gitkeep` into folders you will probably never need is redundant (Areas specific to my use-case). So I've only added them to the most basic folders like *you could need to get started*.
+Git doesn't allow me to push empty folders, and adding a hidden `.gitkeep` into folders you will probably never need is redundant (Areas specific to my use-case). So I've only added them to the most basic folders *you could need to get started*.
 
 Also, these README files use traditional markdown links and relative links so these can be viewed on GitHub as is without needing to be cloned first. But the setting to use Wiki-links has been left turned *on* so you can have a better experience using Obsidian. If you do plan to make a README for your own GitHub version, use normal markdown links in that version.
 
@@ -161,10 +161,17 @@ utkarsh@arch~/D/v/notebook $ tree --gitignore
 │   ├── Devlog
 │   ├── Projects
 │   └── Resources
-├── 90 - Meta          # Navigation & Help for the Workspace.
-│   ├── How to.md
-│   ├── MOCs
-│   └── Templates      # Templates for Area/ and Project/ folders.
+├── 90 - Meta
+│   ├── _assets       # Attachments go here by default
+│   │   ├── diagrams
+│   │   └── images    # Automatic nesting for imgs mirroring folder layout
+│   │       └── README
+│   │           ├── IMG-20260206163250296.png
+│   │           ├── IMG-20260206164013920.png
+│   │           └── IMG-20260206165129843.png
+│   ├── guide.md
+│   ├── MOCs          # MOCs for all Areas, Suggested to bookmark
+│   └── Templates             # Template for Area & Projects Folders
 │       ├── Area Folder
 │       │   ├── 00 - roadmap.md
 │       │   ├── 01 - now.md
@@ -175,12 +182,5 @@ utkarsh@arch~/D/v/notebook $ tree --gitignore
 │           ├── 02 - architecture.md
 │           ├── 03 - tasks.md
 │           └── 04 - links.md
-├── _assets
-│   ├── diagrams       # Excalidraw drawings go here by default
-│   └── images         # Images are auto sorted into nested folders
-│       └── README
-│           ├── IMG-20260206163250296.png
-│           ├── IMG-20260206164013920.png
-│           └── IMG-20260206165129843.png
 └── README.md
 ```

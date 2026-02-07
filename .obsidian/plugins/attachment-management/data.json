@@ -1,7 +1,7 @@
 {
   "language": "en",
   "attachPath": {
-    "attachmentRoot": "_assets/images/",
+    "attachmentRoot": "90 - Meta/_assets/images/",
     "saveAttE": "inFolderBelow",
     "attachmentPath": "${notepath}/${notename}",
     "attachFormat": "IMG-${date}",
