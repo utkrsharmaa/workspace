@@ -1,3 +1,7 @@
+
+> [!TIP]
+> Use the "Use this template" button to create your own repo on GitHub to clone from. If you *do not plan to version control it*, you can simply [clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [download this as ZIP](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github#downloading-a-repositorys-files) and remove the `.git` folder to continue.
+
 On *how* to use this workspace, refer to this [guide](./90%20-%20Meta/guide.md). This is a Template repo, most of this should be straightforward as things can be. ==I have included plugins, their configs etc. to make things as low friction as possible==. Once you've read the *How to*, You should be good to go.
 
 If things *are* breaking, it might be the plugins, obsidian updates, or something similar causing issues. And no less than others, it could be a fault from my end since I'm not really experienced with making reusable environments. This will be a big WIP project for me.
