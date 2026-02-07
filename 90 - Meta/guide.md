@@ -5,7 +5,11 @@ This vault exists so I can capture ideas, learn properly, track project work; wi
 **IMPORTANT**
 Git doesn't allow me to push empty folders, and adding a hidden `.gitkeep` into folders you will probably never need is redundant (Areas specific to my use-case). So I've only added them to the most basic folders *you could need to get started*.
 
-Also, these README files use traditional markdown links and relative links so these can be viewed on GitHub as is without needing to be cloned first. But the setting to use Wiki-links has been left turned *on* so you can have a better experience using Obsidian. If you do plan to make a README for your own GitHub version, use normal markdown links in that version.
+Also, these README files use traditional markdown links like so,
+```
+![Text/Usually file name](<inside angled brackets so you dont have to type %20 for spaces in path names>)
+```
+using the vault path from root so these can be viewed on GitHub as is without needing to be cloned first. <u>But the setting to use Wiki-links has been left turned *on*</u> so you can have a better experience using Obsidian. If you do plan to make a README for your own GitHub version, use similar markdown links in that version.
 
 > [!TIP] 
 > First thing to do once you've cloned the Template. 

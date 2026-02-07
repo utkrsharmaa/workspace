@@ -1,19 +1,19 @@
-
 > [!TIP]
 > Use the "Use this template" button to create your own repo on GitHub to clone from. If you *do not plan to version control it*, you can simply [clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [download this as ZIP](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github#downloading-a-repositorys-files) and remove the `.git` folder to continue.
 
-On *how* to use this workspace, refer to this [guide](./90%20-%20Meta/guide.md). This is a Template repo, most of this should be straightforward as things can be. ==I have included plugins, their configs etc. to make things as low friction as possible==. Once you've read the *How to*, You should be good to go.
+On *how* to use this workspace, refer to this [guide](./90%20-%20Meta/guide.md). This is a Template repo, most of this should be straightforward as things can be. <u>I have included plugins, their configs etc.</u> to make things as low friction as possible. Once you've read the *How to*, You should be good to go.
 
-If things *are* breaking, it might be the plugins, obsidian updates, or something similar causing issues. And no less than others, it could be a fault from my end since I'm not really experienced with making reusable environments. This will be a big WIP project for me.
+**If things *are* breaking, feel free to open an issue about it**.
+It might be the plugins, obsidian updates, or something similar causing issues. And no less than others, it could be a fault from my end since I'm not really experienced with making reusable environments. This will be a big WIP project for me.
 
 Happy Learning :D 
 
 ---
 ### Included Plugins and Things I tried to set up
 
-1. Attachment Management Plugin: For automatic folder creation & nesting under `90 - Meta/_assets/images` depending on where you pasted images. ![Auto organized attachments showcase](IMG-20260206163250296.png)
-2. Excalidraw (kind of WIP): For drawings, Helping with Flow diagrams and embedding right into your notes ![Excalidraw Showcase](IMG-20260206164013920.png)
-3. Image Toolkit: Better viewing experience for images with scroll to zoom, full-screen, copy etc. Baked right into the edit view. ![Refined Image viewer showcase](IMG-20260206165129843.png)
+1. Attachment Management Plugin: For automatic folder creation & nesting under `90 - Meta/_assets/images` depending on where you pasted images. ![Auto organized attachments showcase](<90 - Meta/_assets/images/README/IMG-20260206163250296.png>)
+2. Excalidraw (kind of WIP): For drawings, Helping with Flow diagrams and embedding right into your notes ![Excalidraw Showcase](<90 - Meta/_assets/images/README/IMG-20260206164013920.png>)
+3. Image Toolkit: Better viewing experience for images with scroll to zoom, full-screen, copy etc. Baked right into the edit view. ![Refined Image viewer showcase](<90 - Meta/_assets/images/README/IMG-20260206165129843.png>)
 4. Minimal Theme Settings: To manage minimal theme (you can remove this if you like. I personally find the Gruvbox theme and other options really neat, especially for studying).
 5. Style Settings: To disable the annoying Hold to zoom that comes with Minimal Plugin and use Image toolkit instead. (Trust me you don't want it)
 
