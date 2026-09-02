@@ -3,6 +3,7 @@
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-default-light",
   "darkScheme": "minimal-gruvbox-dark",
+  "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
   "lineWidthWide": 50,
@@ -29,6 +30,5 @@
   "folding": true,
   "lineNumbers": false,
   "readableLineLength": true,
-  "editorFont": "",
   "devBlockWidth": false
 }
