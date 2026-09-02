@@ -1,5 +1,4 @@
 {
-  "language": "en",
   "attachPath": {
     "attachmentRoot": "90 - Meta/_assets/images/",
     "saveAttE": "inFolderBelow",
@@ -18,5 +17,6 @@
   "excludeSubpaths": false,
   "originalNameStorage": [],
   "overridePath": {},
-  "disableNotification": false
+  "disableNotification": false,
+  "language": "en"
 }

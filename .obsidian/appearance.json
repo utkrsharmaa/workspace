@@ -1,4 +1,9 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#a6f7ee"
+  "accentColor": "#a6f7ee",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Adwaita Sans",
+  "enabledCssSnippets": [
+    "remove_boreders"
+  ]
 }
