@@ -1,0 +1,10 @@
+{
+  "imageExtensions": "png, jpg, jpeg, gif, svg, bmp, webp, avif",
+  "includeFolders": "",
+  "excludeFolders": "",
+  "reportFolder": "",
+  "maxDeleteCount": -1,
+  "moveToTrash": true,
+  "safetyTextScan": true,
+  "showRibbonIcon": true
+}
