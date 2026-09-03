@@ -9,10 +9,15 @@ Happy Learning :D
 ---
 ### A short list of what's installed and why:
 
-- **Attachment Management**: creates and nests the right folder under `90 - Meta/_assets/` automatically, based on where you paste an image.
-- **Excalidraw**: for drawings and flow diagrams, embedded directly into your notes.
+- **Attachment Management**: creates and nests the right folder under `90 - Meta/_assets/images` automatically, based on where you paste an image.
+  *Note: This plugin is for automatic organization of attachments as in images, excalidraw diagrams are managed by it's own plugin*
+  
+- **Excalidraw**: for drawings and flow diagrams, embedded directly into your notes. It is set up to allow embedding diagrams directly into your notes as a small image. automatically organized inside `90 - Meta/_assets/diagrams`.
+  
 - **Find Orphaned Images**: scans the vault for images that aren't linked to any note, so cleanup is one click away. Ribbon icon is enabled for quick access.
-- **Minimal Theme Settings**: controls for the Minimal theme. Skip it if you're not using Minimal — Gruvbox and a few other themes work just as well for long study sessions.
+  
+- **Minimal Theme Settings**: controls for the Minimal theme. Skip it if you're not using Minimal. `Gruvbox` and a few other themes work just as well for long study sessions.
+
 - **Style Settings**: turns off the hold-to-zoom behavior that ships with Minimal, for smoother scrolling through images.
 
 ---
