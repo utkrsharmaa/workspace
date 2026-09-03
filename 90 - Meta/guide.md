@@ -1,5 +1,6 @@
 # How to use this vault
 
+*Before reading this, I suggest you set up this vault following the instructions in [[README]]. This guide is much more readable in Obsidian*
 ## Why this structure?
 
 Two folders do all the actual work: `10 - Notes` for capturing what you learn, `20 - Projects` for what you build with it. Everything else just supports those two.
